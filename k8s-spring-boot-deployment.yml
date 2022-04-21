@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: sunildhakad/NTS-docker-demo:NTS-docker-demo
+          image: sunildhakad/nts-docker-demo:nts-docker-demo
           ports:
             - containerPort: 8080
           env:
